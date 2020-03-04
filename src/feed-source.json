@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Top Stories",
+    "value": "http://rssfeeds.courier-journal.com/courierjournal/home?x=1"
+  },
+  {
+    "label": "Entertainment",
+    "value": "http://rssfeeds.courier-journal.com/courierjournal/entertainment?x=1"
+  },
+  {
+    "label": "Sports",
+    "value": "http://rssfeeds.courier-journal.com/courierjournal/sports?x=1"
+  },
+  {
+    "label": "Lifestyle",
+    "value": "http://rssfeeds.courier-journal.com/courierjournal/lifestyle?x=1"
+  },
+  {
+    "label": "Opinion",
+    "value": "http://rssfeeds.courier-journal.com/courierjournal/opinion?x=1"
+  }
+]
