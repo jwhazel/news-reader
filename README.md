@@ -1,5 +1,6 @@
 # Courier Journal News Explorer
 A simple news reader written in Vue JS.
+Demo: https://jhazel.net/projects/news-reader
 
 ## Project setup
 ```
